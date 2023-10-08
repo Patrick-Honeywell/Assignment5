@@ -1,5 +1,6 @@
 # Assignment5
 
-# The zip contains the entirety of the Java project (code + docs)
+# This Java program sorts integers from a user input into stack.
+# The stack is sorted from least to greatest.
+# Input a non-integer to end the program
 
-# The java code is in its own commit
